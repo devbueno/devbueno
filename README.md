@@ -2,5 +2,6 @@
     🎉 Bem vindo ao meu perfil ! 🎉
 </p>
 
-<img src="https://raw.githubusercontent.com/devbueno/devbueno/main/matrix.gif" width="300px">
-
+<div align="center">
+    <progress value="70" max="100" style="width: 80%; height: 15px;"></progress>
+</div>
