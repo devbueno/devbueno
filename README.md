@@ -38,5 +38,4 @@ I'm also studying to earn an **AWS Certificate** as soon as possible.
 
 ---
 
-## ⏳ Profile Progress
 
