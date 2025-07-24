@@ -1,5 +1,7 @@
 <p align="left" style="font-size: 20px;">
     ♾️ The sky isn't the limit ♾️
+
+    Hey, welcome to my profile ;) !
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jonathanbueno95)
