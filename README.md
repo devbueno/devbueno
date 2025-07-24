@@ -26,6 +26,19 @@ Currently, I'm working on the **drone's flight controller** (stabilization and m
 
 ---
 
+## 🧠 Familiar With AI Tools
+
+I actively explore and work with various modern AI platforms and models, including:
+
+- 🤖 **ChatGPT** (OpenAI)
+- 🧩 **Manus AI**
+- 🌐 **Gemini AI** (Google)
+- 🖼️ **Canvas-based Image Generation AIs**
+
+These tools are part of my daily workflow for ideation, prototyping, and productivity.
+
+---
+
 ## 📚 Learning Goals
 
 I'm also studying to earn an **AWS Certificate** as soon as possible.
@@ -38,4 +51,5 @@ I'm also studying to earn an **AWS Certificate** as soon as possible.
 
 ---
 
+## ⏳ Profile Progress
 
