@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px;">
+<p align="right" style="font-size: 20px;">
     ♾️ The sky isn't the limit ♾️
 </p>
 
