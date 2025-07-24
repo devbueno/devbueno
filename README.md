@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 20px;">
-    🎉 A minimal welcome for you ;) 🎉
+     The sky isn't the limit ♾️
 </p>
 
 <div align="center">
