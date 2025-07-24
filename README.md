@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 20px;">
-    🎉 Bem vindo ao meu perfil ! 🎉
+    🎉 A minimal welcome for you ;) 🎉
 </p>
 
 <div align="center">
