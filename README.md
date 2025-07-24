@@ -19,8 +19,8 @@ On this path I plan to learn **Flutter** for basic app functionality, **Java & S
 
 The core of this project involves:
 - **C++** programming for robotics (you can find some pieces of code in my profile)
-- Development of a **multiplatform website** to link users to the robots
-- **Infrastructure as Code (IaC)** for easy cloud deployment and management
+- Development of a **multiplatform website** to link users to the robots (JS based + frameworks)
+- **Infrastructure as Code (IaC)** for easy cloud deployment and management (Terraform & Ansible)
 
 Currently, I'm working on the **drone's flight controller** (stabilization and movement).
 
