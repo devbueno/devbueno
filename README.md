@@ -1,4 +1,5 @@
 # ♾️ The sky isn't the limit ♾️
+"Learning sharpens thought, broadens perspective, and empowers meaningful action."
 
 Hey, welcome to my profile 😉!  
 My name is **Jonathan Bueno**, 29 years old, and I love every kind of stuff related to technology.  
