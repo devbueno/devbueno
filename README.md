@@ -8,7 +8,7 @@ I started young on this, 9 years old, dismantling toys and electronic devices �
 
 ## 🚀 Current Status
 
-I'm currently looking for a job and also involved in two personal projects:
+I'm currently looking for a job and also involved in two personal "study" projects:
 
 ### 1️⃣ Mobile App with 3D & AI
 
