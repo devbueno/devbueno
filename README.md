@@ -32,6 +32,7 @@ Currently, I'm working on the **drone's flight controller** (stabilization and m
 I frequently use those AI tools to study and create everything I want (I love them hahaha)
 
 - 🤖 **ChatGPT** (OpenAI)
+- 🤖 **Cursor AI**
 - 🧩 **Manus AI**
 - 🌐 **Gemini AI** (Google)
 - 🖼️ **Canvas-based Image Generation AIs**
